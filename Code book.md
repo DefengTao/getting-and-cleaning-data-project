@@ -1,5 +1,7 @@
 # Code book
 
+## Dataset description:
+
 The dataset includes the following files:
 
 'README.txt'
@@ -28,6 +30,7 @@ The dataset includes the following files:
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
+## Tidy.txt information
 In the tidy.txt:
 "subject": subject's ID
 "activity": the type of activity they did.
